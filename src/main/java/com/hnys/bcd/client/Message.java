@@ -1,4 +1,4 @@
-package com.hnys.bcd;
+package com.hnys.bcd.client;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
